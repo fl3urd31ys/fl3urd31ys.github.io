@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-AU"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ivana Felquer / Academic Portfolio  "
 title_separator          : "-"
@@ -24,13 +24,13 @@ repository               : "fl3urd31ys.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ivana Felquer"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Second year Bachelor of Psychology (Honours) student at Adelaide University."
+  location         : "Adelaide, South Australia"
+  employer         : "Adelaide University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ivana.felquer@student.adelaide.edu.au" 
 
   # Academic websites
   academia         : # URL
